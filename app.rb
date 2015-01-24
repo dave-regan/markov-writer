@@ -49,7 +49,7 @@ def ReturnResp(params)
 								resp[:two_chainz][secondword].nil? ? (resp[:two_chainz][secondword] = [thirdword]) : (resp[:two_chainz][secondword] << thirdword)
 							end
 						# But a match on just the second is OK
-						elsif params[:w2] == secondword[0, params[:w2].length]
+						elsif params[:w2] == secondword
 							secondarray.each do |thirdword|
 								resp[:one_chain][secondword].nil? ? (resp[:one_chain][secondword] = [thirdword]) : (resp[:one_chain][secondword] << thirdword)
 							end
