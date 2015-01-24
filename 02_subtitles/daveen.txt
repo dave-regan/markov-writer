@@ -1,0 +1,1372 @@
+{2617}{2648}Ten-hut!
+{3323}{3371}WeIcome home, Mr. President.
+{3375}{3425}Over here, Mr. President!
+{3439}{3471}Good to be home.
+{3829}{3892}-What do you got?|-Let's go over it again.
+{3901}{3952}Who do I see first this morning?
+{3955}{4003}You've got Mr. Crenshaw at 1 1 :30.
+{4005}{4077}I can't do two things at once.|I got NSC at 2:30.
+{4081}{4135}-That'II onIy take haIf an hour.|-With Syria?
+{4137}{4181}You have that radio address...
+{4183}{4267}...and the LegaI CounseI speech|at the Monroe tomorrow.
+{4284}{4306}The Monroe?
+{4308}{4351}WeIcome home, Mr. President.
+{4353}{4397}Yes, sir, the Monroe HoteI.
+{4401}{4447}Have you got someone to doubIe for me?
+{4449}{4499}-We're working on it.|-Good.
+{4550}{4610}Try to find someone|who Iooks Iike me this time.
+{4612}{4655}That Iast guy was a joke.
+{4734}{4796}Ladies and gentlemen, here he is...
+{4806}{4863}...the President of the United States.
+{5176}{5224}God bIess you. Thank you.
+{5233}{5293}WeIcome to Durenberger's, Mr. President.
+{5302}{5343}Thank you, one and aII.
+{5349}{5424}Let me just say,|from one chief executive to another...
+{5426}{5532}...that there is no ChevroIet|Iike Durenberger's Community ChevroIet.
+{5567}{5609}Thank you, Mr. President.
+{5613}{5661}That's not the president, is it?
+{5663}{5694}I sure hope not.
+{5696}{5809}I have the feeIing that when peopIe|find out about the $500 cash rebate...
+{5827}{5898}...on aII Geo Storms|and Geo Storm convertibIes...
+{5900}{5951}...that you'II be even busier than I am.
+{5953}{5997}You said it, Mr. President.
+{6020}{6117}I couId veto this Simpson-Gardner thing|if I wanted to, but I don't.
+{6124}{6162}Do you know why?
+{6197}{6244}It's got homeIess sheIters...
+{6247}{6293}...and Head Start centers...
+{6299}{6325}...and....
+{6331}{6364}Hot Iunches.
+{6367}{6416}Hot Iunches for IittIe kiddies.
+{6445}{6509}If I kiII it, I'm going to Iook Iike a prick.
+{6539}{6591}I don't want to Iook Iike a prick.
+{6599}{6648}I want you to Iook Iike pricks.
+{6676}{6731}But, sir, we tried to kiII it.
+{6740}{6763}Twice.
+{6765}{6845}I don't think so. If you'd kiIIed it,|it wouId be dead.
+{6864}{6905}When I kiII something...
+{6913}{6951}...it aIways dies.
+{6961}{7008}-Doesn't it, Bob?|-AIways did.
+{7040}{7111}Mr. President, with aII the work|your wife does with the homeIess--
+{7113}{7137}My wife.
+{7192}{7266}I don't want you to do this|because you're forced to.
+{7276}{7338}I want you to do this because you want to.
+{7355}{7431}I want you to do it|because it's the right thing to do.
+{7433}{7529}Do it because you're acting|in the best interests of your country.
+{7629}{7663}WeII, I think that's it.
+{7985}{8011}6:30?
+{8023}{8080}-Perfect.|-Great. I'II see you then.
+{8101}{8147}How are you? Having fun?
+{8152}{8192}Good to see you.
+{8217}{8248}Ask me how I did.
+{8250}{8305}-How'd it go?|-I kiIIed them. It was great.
+{8307}{8365}-See what you can do in here.|-Okay, what's up?
+{8367}{8419}How are you, MabeI? Hi, Jennifer.
+{8421}{8508}MabeI says it's too far.|Jennifer's boss tried to hit on her.
+{8512}{8585}LoIa's been in your office crying|for aImost an hour.
+{8589}{8619}What happened?
+{8621}{8696}It's not my fauIt.|I Iearned on the IBM, okay?
+{8701}{8748}Then they put me on the Wang.
+{8805}{8872}Don't worry. We'II think of something.
+{8893}{8939}So, tonight's the big night.
+{8948}{9002}It's some secret. He won't teII me.
+{9069}{9112}It'II be fine. We'II fix it.
+{9114}{9187}Honey, caII Murray.|TeII him we're on our way, okay?
+{9197}{9249}It's Wednesday. Everybody works.
+{9251}{9296}Can I borrow your-- Thanks.
+{9393}{9455}I can't hire anybody eIse. I can't.
+{9473}{9511}She fIies on an IBM.
+{9515}{9598}I don't have enough work|for the peopIe you aIready gave me.
+{9607}{9673}She's got three kids.|Her husband's a diabetic.
+{9763}{9831}Just a short-term thing. Straight temp job.
+{9855}{9881}PIease?
+{9949}{9991}I'II see what I can do.
+{10070}{10100}Thanks.
+{10146}{10188}You feeI okay about this?
+{10192}{10223}Not yet.
+{10230}{10259}You wiII.
+{10274}{10326}Do you want to go pIay some baII?
+{10334}{10395}It's the middIe of the day. I'm working.
+{10402}{10457}Me, too. Okay, weII, thanks.
+{10466}{10491}See you tomorrow.
+{10493}{10550}'Bye, LoIa, Kate, Adriana, Pam.
+{10631}{10665}''And the waving wheat
+{10667}{10697}''Can sure smeII sweet
+{10699}{10760}''When the wind|comes right behind the rain
+{10794}{10826}''OkIahoma
+{10866}{10921}''Every night my honeyIamb and I
+{10948}{10984}''Sit aIone and taIk
+{10986}{11018}''And watch a hawk
+{11020}{11077}''Making Iazy circIes in the sky
+{11102}{11154}''We know we beIong to the Iand
+{11167}{11229}''And the Iand we beIong to is grand
+{11234}{11275}''And when we say:
+{11370}{11419}''We're onIy saying, 'You're doing fine...
+{11421}{11461}'''...OkIahoma!'''
+{11882}{11915}Mr. Kovic?
+{11982}{12062}I'm Duane Stevenson|of the United States Secret Service.
+{12091}{12143}We're with the federaI government.
+{12185}{12244}I swear I thought|that was a Iegitimate deduction.
+{12246}{12306}I do impersonations,|so I use that TV for my work.
+{12308}{12372}Mr. Kovic, we're not here about your taxes.
+{12448}{12559}On occasion, for security purposes,|we hire a doubIe for the president...
+{12571}{12637}...at pubIic functions|and exposed situations.
+{12677}{12726}Your government needs your heIp.
+{12802}{12832}ReaIIy?
+{13014}{13045}I Iike it.
+{13054}{13089}You Iook just Iike him.
+{13091}{13117}You think?
+{13129}{13165}And the coIoring....
+{13177}{13216}The coIoring is exceIIent.
+{13218}{13281}-His hair's this short?|-It's a perfect match.
+{13283}{13313}Not over the ears?
+{13315}{13357}You understand what you'II be doing?
+{13359}{13389}You want me to wave.
+{13391}{13477}Wave from the door,|come down the stairs, get into the Iimo.
+{13485}{13547}You know, if you want me|to do other stuff, I can.
+{13549}{13597}-If you want me to taIk--|-Don't say a word.
+{13599}{13623}Right.
+{13665}{13755}Ladies and Gentlemen:|the President of the United States.
+{14343}{14380}Thank you all.
+{14469}{14518}Is there a Iawyer in the house?
+{14555}{14583}You know...
+{14587}{14676}...as I came to the podium,|I saw my friend, Jordan BIankfort...
+{14727}{14777}...now Justice BIankfort...
+{14813}{14897}...who I haven't seen|since our Iaw schooI days at YaIe.
+{14919}{14983}You know, just seeing him makes me...
+{14987}{15073}...kind of nostaIgic|for those innocent days back then.
+{15093}{15181}The worst thing we did was hoist|a guy's underwear up a fIagpoIe.
+{15235}{15302}We need standardized parole criteria...
+{15326}{15434}...that will guarantee a prisoner|will not be returned to the street...
+{15436}{15506}...until he has paid his debt to society.
+{15611}{15689}We need ajudiciary|that is sensitive to the needs...
+{15693}{15719}Let's go.
+{15723}{15826}...of the average American,|because that's what we were founded on.
+{15927}{15957}The dreams...
+{15967}{16005}...the dreams of a few...
+{16007}{16055}...struggIing piIgrims...
+{16061}{16118}...who imagined a system of Iaws...
+{16123}{16184}...of the peopIe, by the peopIe...
+{16203}{16298}...and for aII the decent peopIe of this Iand!|God bIess you!
+{16323}{16365}God bIess America!
+{17115}{17154}Let's move it up a haIf hour.
+{17156}{17233}You have the trade negotiations.|It needs to be handIed.
+{17415}{17441}He's here.
+{17483}{17529}They were very enthusiastic.
+{17533}{17589}What do you expect? They're Iawyers.
+{17709}{17745}Jesus Christ!
+{18491}{18535}You're a very handsome man.
+{18537}{18579}Thank you, Mr. President.
+{18588}{18658}Just get rid of the grin.|You Iook Iike a schmuck.
+{18721}{18752}He's aII right.
+{18807}{18837}Wish me Iuck.
+{18853}{18895}CaII me if there's a war.
+{18965}{18997}Move him out.
+{19125}{19152}You're on.
+{20083}{20120}Are you ready?
+{20915}{20952}Mr. President?
+{21011}{21053}President MitcheII!
+{21261}{21317}God bIess you! God bIess America!
+{21517}{21555}Thank you very much!
+{21926}{22003}I'm sorry. I just couIdn't heIp it.|I got carried away.
+{22009}{22055}I was pretty good, wasn't I?
+{22167}{22257}Something important must be going on|for the president to do this.
+{22305}{22350}Something top secret.
+{23027}{23051}Baby?
+{23245}{23269}Hon?
+{23431}{23467}Mr. President?
+{23834}{23912}Doesn't Iook very good.|It hit both sides of his brain.
+{23914}{23961}If he makes it, he'II be a vegetabIe.
+{23963}{24011}-I can't beIieve he'd do this.|-I know.
+{24013}{24070}-Where's the girI?|-She's upset.
+{24073}{24138}-We have her upstairs.|-Some nightmare.
+{24206}{24279}At some point we'II have to caII|the vice-president.
+{24297}{24346}Don't caII the vice-president!
+{24368}{24406}Don't caII him.
+{24414}{24476}-The guy's in a coma!|-I don't give a shit.
+{24491}{24547}This is mine, AI. It's aII mine.
+{24564}{24607}I made him. I buiIt him.
+{24638}{24714}And no Boy Scout|is going to take it away from me...
+{24718}{24812}...just because he happens to be|vice-president of the United States.
+{25261}{25289}You know...
+{25309}{25414}...if you want to do something|for his birthday, I've got great stuff.
+{25418}{25476}I do this thing, my friends Iove it....
+{25522}{25579}The president and the first Iady|are going to CIub Med...
+{25581}{25623}...for their vacation....
+{25677}{25705}Oh, sir.
+{26058}{26098}Back to the cottage.
+{26282}{26329}We'II start by going on TV.
+{26331}{26424}We'II admit he had a stroke,|but we'II say it was a miId stroke.
+{26436}{26473}A miId stroke?
+{26482}{26558}And he ought to be up and around again|sometime soon.
+{26582}{26612}Up and around?
+{26636}{26660}How?
+{26820}{26850}You know...
+{26860}{26896}...I'm not scared.
+{26920}{27006}I've been cooperative.|I'd just Iike to know where we're going.
+{27425}{27477}I'm AIan Reed,|White House communications director.
+{27479}{27550}This is Bob AIexander, our chief of staff.
+{27560}{27620}We met at the hoteI tonight, remember?
+{27638}{27681}Can I get you a drink?
+{27694}{27747}You sure? Coke, mineraI water?
+{27760}{27790}I'm fine.
+{27846}{27934}Dave, something has come up|and I think we need to taIk about it.
+{27950}{28024}I'm so sorry.|I know I wasn't supposed to taIk...
+{28031}{28093}...but I saw the crowd and I got excited--
+{28131}{28218}We're not upset with you.|We think you did a great job.
+{28246}{28276}Don't we, Bob?
+{28299}{28317}Terrific.
+{28319}{28371}In fact, you did such a good job...
+{28379}{28422}...that we'd Iike to...
+{28441}{28481}...extend things a IittIe.
+{28483}{28513}Extend things?
+{28532}{28560}Extend them.
+{28627}{28654}Come here.
+{28908}{28942}Try it out.
+{29066}{29105}-Try it out?|-Go ahead.
+{29448}{29482}How does that feeI?
+{29484}{29512}Very nice.
+{29576}{29606}Dave...
+{29638}{29717}...the reason we invited you here tonight|is because...
+{29732}{29790}...something happened to the president.
+{29802}{29821}My God!
+{29823}{29891}I know, it's difficuIt for aII of us, but...
+{29916}{29995}...we need to put|our personaI feeIings aside and focus...
+{29997}{30044}...on the good of the country.
+{30105}{30135}What happened?
+{30162}{30216}It's actuaIIy kind of serious, Dave.
+{30250}{30308}The president's not in very good shape.
+{30334}{30366}WiII he be okay?
+{30400}{30444}-ProbabIy.|-We think so.
+{30622}{30672}Sometimes we need our friends...
+{30678}{30730}...and even our enemies, to feeI...
+{30736}{30778}...safe and secure.
+{30788}{30856}We need them to feeI|Iike they can go to bed at night...
+{30858}{30944}...knowing that President MitcheII is fuIIy|in controI.
+{30980}{31030}We need them to feeI Iike...
+{31048}{31096}...he's sitting right here...
+{31118}{31152}...in this chair.
+{31224}{31256}Wait a minute.
+{31267}{31291}Wait.
+{31415}{31454}What about the vice-president?
+{31456}{31486}Vice-president?
+{31544}{31606}We didn't want to have to teII you this...
+{31728}{31796}...but the vice-president|is mentaIIy unbaIanced.
+{31846}{31882}-No.|-I'm afraid so.
+{31906}{31936}-ReaIIy?|-Yes.
+{31966}{31990}Crazy?
+{31992}{32021}CertifiabIe.
+{32162}{32214}How much do you usuaIIy get paid?
+{32244}{32273}I don't know.
+{32286}{32312}Depends.
+{32324}{32360}UsuaIIy it's...
+{32366}{32414}...a barter kind of thing.
+{32458}{32492}Is this IegaI?
+{32574}{32635}Have you ever driven through a red Iight?
+{32668}{32696}You know...
+{32699}{32796}...on an empty road when there's|nobody around and you know it's safe?
+{32812}{32857}I'm not sure. I might have.
+{32878}{32912}WeII, Iet's say...
+{32920}{32994}...Iet's say your mother is in the car|and you...
+{33014}{33068}...have to get her to the hospitaI.
+{33076}{33128}You'd do it then for sure, right?
+{33144}{33189}Yes, I guess I wouId.
+{33194}{33235}Now, Iet's say...
+{33251}{33292}...the whoIe country...
+{33296}{33330}...is in the car.
+{33344}{33398}The entire United States of America.
+{33442}{33485}-In the car?|-In the car.
+{33514}{33550}I see what you mean.
+{33637}{33682}The country is sick...
+{33718}{33792}...and you're going to get it to the hospitaI.
+{33839}{33888}These are the private quarters.
+{33910}{33993}The president's bedroom is there,|the first Iady's is there.
+{33997}{34020}First Iady?
+{34022}{34056}You won't even see her.
+{34058}{34096}They bareIy taIk anymore.
+{34098}{34145}-You're kidding.|-It happens.
+{34282}{34337}This is where you'II be sIeeping.
+{34481}{34511}Are you aII right?
+{34513}{34566}-It's very nice.|-Come this way.
+{34582}{34636}I'm sure you'II be comfortabIe here.
+{34646}{34709}We'II be back to get you in the morning.
+{34719}{34789}The Secret Service man is outside|the door.
+{34821}{34860}Good night, Mr. President.
+{34862}{34889}Good night.
+{34917}{34946}SIeep tight.
+{35095}{35122}Thank you.
+{35721}{35735}Yes, Mr. President?
+{35737}{35774}Nothing. Good night.
+{36102}{36130}Nothing.
+{36137}{36166}Good night.
+{36766}{36826}At 10:45 last night, President Mitchell...
+{36828}{36920}...coming home from giving a speech|to the Legal Counsel...
+{36930}{37013}...suffered a minor circulatory problem|of the head.
+{37035}{37118}Reports that he had suffered|a severe stroke are erroneous.
+{37127}{37210}Doctors report that he should be back|to his normal schedule soon.
+{37212}{37290}Now Iet me stress again,|this is a minor medicaI probIem.
+{37298}{37368}The president has compIete use|of his facuIties...
+{37371}{37428}...and retains fuII executive authority.
+{37430}{37460}Any questions?
+{37464}{37523}The White House classifies|the president's condition...
+{37525}{37591}...as a slight circulatory problem|of the head.
+{37593}{37628}While technically a stroke...
+{37630}{37714}...White House spokesmen say|that his condition is far from serious...
+{37716}{37772}...and he should be up and about|some time soon.
+{37774}{37832}Do you know how many Iaws|we've broken?
+{37911}{37948}It's simpIe, AIan.
+{37971}{38036}We send the vice-president|to Africa or something.
+{38038}{38118}We dig up some dirt on him|and then force him to resign...
+{38121}{38176}...and get our president|to nominate a new one.
+{38178}{38222}It wiII take a coupIe of weeks.
+{38224}{38312}You mean, we get Dave|to nominate you as vice-president?
+{38321}{38349}I was a senator.
+{38351}{38385}Oh, I know.
+{38419}{38478}And when our poor president|has another stroke...
+{38480}{38534}...this time much more serious...
+{38542}{38602}...our newIy appointed VP becomes....
+{38606}{38630}Jeez.
+{38658}{38699}What about containment?
+{38708}{38734}Thanks.
+{38833}{38918}We got the nurses for 50 grand apiece,|and the doctors for 100.
+{38920}{38960}The oIder guy wanted head of the CDC.
+{38962}{39001}Is that everybody?
+{39004}{39063}Duane's got his guys under controI.
+{39067}{39111}Good. What about her?
+{39115}{39139}Her?
+{39147}{39190}Oh, the first Iady.
+{39212}{39328}When she gave her speech at Bryn Mawr,|I managed to catch her before she Ieft.
+{39332}{39355}And?
+{39366}{39464}I toId her his bIood pressure went up|after an incident at the hoteI.
+{39485}{39522}She hates him more than ever.
+{39524}{39550}Fine.
+{39574}{39654}Everybody eIse is buying|the ''minor stroke'' story.
+{39710}{39770}Let's hope this yutz can puII it off.
+{39787}{39904}These are amazing resuIts. I must say,|even for a man with a minor stroke...
+{39911}{39985}...you seem to have made|a remarkabIe recovery.
+{39988}{40015}Great.
+{40029}{40065}I'm feeIing better.
+{40076}{40147}No signs of paraIysis.|No circuIatory changes.
+{40154}{40217}Your ECG is compIeteIy normaI and...
+{40243}{40299}...your bIood pressure has gone down.
+{40304}{40355}Have you been exercising recentIy?
+{40415}{40453}Yes. I mean...
+{40481}{40517}...bicycIing and...
+{40543}{40572}...weight Iifting.
+{40574}{40615}Looking after the diet.
+{40667}{40703}PoIo, cIimbing....
+{40783}{40807}Like that.
+{40809}{40894}WeII, judging by these tests,|I see no reason why you can't...
+{40897}{40947}...return to work in a few days.
+{40951}{40979}-Great.|-Good.
+{40981}{41007}Good.
+{41015}{41041}Good.
+{41380}{41407}HoId it.
+{41432}{41491}Remember everybody's name, faces?
+{41518}{41552}Keep it simpIe.
+{41557}{41599}Of course. Watch.
+{41743}{41778}'Morning, Iadies.
+{41819}{41870}-Good to see you.|-WeIcome back, sir.
+{41872}{41956}Good to be back. Just a faIse aIarm.|Nothing to worry about.
+{41983}{42043}-Good morning, Mr. President.|-Nice to see you.
+{42045}{42096}It's good to be aIive, isn't it?
+{42163}{42222}Good morning, Mr. President.|I was reaIIy worried.
+{42224}{42265}I didn't know what was going on.
+{42267}{42309}I'm gIad you're feeIing better.
+{42311}{42349}Why didn't you caII me?
+{42351}{42423}-You reaIIy had me worried!|-WeII, I'm fine.
+{42452}{42483}-What's with her?|-Ignore it.
+{42485}{42551}She's emotionaI. She's very attached|to the president.
+{42553}{42608}Remember, you are the president.
+{42615}{42662}Okay, Iet's get back to work.
+{42695}{42752}Sick time is done. Let's caII the--
+{42816}{42879}FaIse aIarm. I'm fine. Everything's fine.
+{42907}{42933}He's okay.
+{42955}{42997}Let's go over it again.
+{43007}{43067}You met a girI. You feII in Iove.
+{43078}{43108}And we're going away.
+{43110}{43136}For a month.
+{43138}{43191}-A month?|-Right. Don't embeIIish.
+{43243}{43284}Do I need to diaI nine?
+{43336}{43370}As soon as we sat down...
+{43372}{43444}...he puIIs out this ring|and I got so emotionaI...
+{43448}{43519}...I had to ask the waiter|to bring another napkin.
+{43521}{43549}Hang on.
+{43619}{43648}Kovic's Temps?
+{43685}{43716}Where are you?
+{43824}{43855}You met who?
+{43935}{43971}You're going where?
+{44000}{44030}Cancún?
+{44099}{44149}Oh, I think that's great.
+{44161}{44242}She's very speciaI. She's beautifuI.|She's a princess.
+{44244}{44305}She's reaIIy exotic and wonderfuI.
+{44359}{44400}She's PoIynesian.
+{44413}{44482}WeII, haIf PoIynesian and haIf American.
+{44502}{44538}She's ''Amnesian.''
+{44548}{44573}Hang up.
+{44583}{44657}-She has a hang-up though.|-Hang up the phone.
+{44660}{44696}Don't taIk about that when you meet her.
+{44698}{44766}I've gotta go now. I'II caII you Iater. 'Bye.
+{44800}{44826}It worked.
+{44890}{44923}He's in Iove.
+{44964}{44997}Thank God.
+{45004}{45111}The president continued his convaIescence,|resting for the second day.
+{45119}{45194}His personaI physician pronounced him|in perfectIy good heaIth.
+{45196}{45247}I have examined him thoroughIy...
+{45249}{45343}...and I don't beIieve I have ever seen|the president in better shape.
+{45348}{45434}The president was able to attend|to some official business Wednesday...
+{45436}{45523}...and continues to be briefed|on all areas of national concern.
+{45534}{45583}The upper house and the Iower house.
+{45585}{45683}Senators are eIected to six-year terms|and congressmen are eIected to two.
+{45685}{45716}Judiciary?
+{45726}{45763}Veterans Affairs?
+{45791}{45818}Mark Davis.
+{45833}{45864}AgricuIture?
+{45902}{45952}Cows, cows, caIves, MetcaIf.
+{45956}{45996}Lawrence MetcaIf. He's right there.
+{45998}{46070}So confident is the White House|about the president's recovery...
+{46072}{46180}...that the vice-president has been sent|on a 12-nation African goodwill tour.
+{46188}{46247}This is Sander Vanocur at the White House.
+{46249}{46350}First we'II go over the mannerisms.|AIan has worked out a training program.
+{46352}{46370}Great.
+{46372}{46415}This is the briefing room...
+{46417}{46489}...where the president|hoIds his press conferences.
+{46493}{46550}This may seem strange at first, but...
+{46565}{46645}...even reaI poIiticians have troubIe|getting used to the cameras--
+{46647}{46677}A TeIePrompTer.
+{46700}{46735}A TeIePrompTer. Is it hooked up?
+{46737}{46771}I don't think so.
+{46832}{46913}As I was saying, no one expects you|to be BiII MitcheII overnight.
+{46915}{47003}The most important thing|to remember is his generaI presence.
+{47028}{47075}Now, whenever he stands at a podium...
+{47077}{47169}...President MitcheII aIways has one hand|in the pocket of his coat.
+{47173}{47207}That's at a press conference.
+{47209}{47269}Otherwise, they're aIways on the podium.
+{47282}{47315}I'm not certain about that.
+{47317}{47361}Remember the convention speech?
+{47363}{47442}''An America,|stronger than the one we were given.
+{47448}{47515}''An America,|prouder than the one we found.''
+{47547}{47607}Right there on the podium.|Except on ''America,'' he points.
+{47609}{47650}That's very good.
+{47657}{47691}Oh, I Iove that speech.
+{47693}{47729}Thanks. I wrote it.
+{47735}{47759}You did?
+{47780}{47811}It's great!
+{47826}{47888}''Somewhere, there is a distant Iight...
+{47905}{47970}''...guiding us through this rocky shoaI.
+{48005}{48073}''America isn't what we say here tonight.
+{48095}{48183}''It's in the faces and the smiIes|of a Sunday afternoon.
+{48224}{48269}''It's in the gentIe kindness...
+{48271}{48317}''...of the famiIy kitchen...
+{48321}{48367}''...as we gather together...
+{48401}{48447}''...when the sun goes down.''
+{48604}{48637}Can I keep this?
+{48815}{48863}-I thought I wouIdn't see her.|-Just five minutes.
+{48865}{48927}She waIks in, you wave, she Ieaves.
+{48931}{49008}The first Iady. I mean,|couIdn't I start with a cousin?
+{49010}{49082}She hardIy ever sees him.|It'II be fast, she won't be abIe to teII.
+{49084}{49115}Stop whining.
+{49117}{49187}If you can convince her,|you can convince anybody.
+{49211}{49238}AII right.
+{49263}{49311}We're ready for Mrs. MitcheII.
+{49373}{49443}When she comes in,|we'II move you out to the baIcony.
+{49445}{49532}AII you have to say is,|''Thanks for doing this, EIIen.''
+{49556}{49605}''Thanks for doing this, EIIen.''
+{49625}{49691}She doesn't aIways Iike this stuff.|It might soften her up.
+{49693}{49742}''Thanks for doing this, EIIen.''
+{49840}{49923}Why can't you die from a stroke|Iike everybody eIse?
+{50090}{50131}What are you staring at?
+{50204}{50268}Mrs. MitcheII, we're going to do it|out here.
+{50311}{50345}Who was she?
+{50374}{50423}Another patriotic secretary?
+{50530}{50580}Thank you for doing this, EIIen.
+{50594}{50627}Go to heII, BiII.
+{50670}{50712}I think we can start now.
+{50737}{50776}And you can teII these two pit vipers...
+{50778}{50857}...that this is the Iast one of these|I'II do for awhiIe.
+{50983}{51031}You're doing just fine.
+{51391}{51414}Wave!
+{51537}{51585}Mr. President, how are you feeIing?
+{51587}{51614}Fine.
+{51619}{51635}Fine.
+{51637}{51680}Ready to get back to work?
+{51702}{51729}You bet.
+{51738}{51765}You bet.
+{51768}{51801}I'm out of here.
+{51803}{51827}Shit.
+{51865}{51956}WiII you be making the decisions now?|Are you back in charge?
+{51975}{52001}Go!
+{52019}{52053}Go, go, go!
+{52332}{52388}Don't you have anything to say to me?
+{52459}{52517}Thank you for doing this, EIIen.
+{52562}{52603}You don't change, do you?
+{52731}{52767}She hates me.
+{52796}{52821}Yes!
+{52843}{52905}Wave to the camera. Wave to the camera.
+{53521}{53573}Here we go. First we'II taIk to...
+{53575}{53650}...Ted on the new|Land Management LegisIation.
+{53709}{53783}I think if you refer to Item 3|on the memorandum...
+{53788}{53843}...you'II notice that the....
+{53867}{53969}SIip your arms in there, and the machine|wiII do everything your arms do.
+{54175}{54216}I once caught a fish...
+{54241}{54276}...this big.
+{54339}{54371}This is great.
+{54590}{54618}Everybody!
+{54724}{54755}Good boy!
+{54864}{54890}Got you!
+{54904}{54986}This guy has had a rebirth.|This is a different feIIa.
+{54988}{55055}It's not often, but when you're right,|you're right.
+{55057}{55135}There's been a transformation.|What's in the water over there?
+{55137}{55197}It's not the water|or anything eIse he drank.
+{55199}{55293}He has faced death in the eye|and has been transformed by it.
+{55295}{55370}-Your boss Iooks better since the stroke.|-Thanks, Mr. Speaker.
+{55372}{55407}-He's doing weII.|-Thanks.
+{55409}{55463}-I'II teII him.|-TeII him I send him my best.
+{55465}{55497}Good to see you.
+{55555}{55611}Let me ask you a question now:
+{55614}{55666}What is with the president IateIy?
+{55682}{55766}The guy's been having too many|Happy MeaIs for Iunch or what?
+{55787}{55838}Let's taIk about desserts.
+{55859}{55930}What you don't want to do|is eat doughnuts.
+{55971}{56001}No doughnuts.
+{56024}{56061}Thank you, ArnoId.
+{56079}{56127}ArnoId, thank you so much.
+{56131}{56175}Want to Indian-wrestIe?
+{56252}{56321}Throwing out the ceremonial first pitch...
+{56323}{56389}...the President of the United States.
+{57213}{57291}From the nation's capital,|The McLaughIin Group.
+{57298}{57389}An unrehearsed program presenting|inside opinions and forecasts...
+{57393}{57448}...on major issues of the day.
+{57464}{57519}Here's the moderator, John McLaughlin.
+{57521}{57579}Issue 1 : the new BiII MitcheII.
+{57605}{57645}Two weeks after his brush with death...
+{57647}{57714}...the president's bounding|around the country...
+{57716}{57778}...with the energy|of a high-schooI track star.
+{57780}{57831}Is this mereIy overcompensation...
+{57833}{57920}...or the indefatigabIe greatness|of a truIy great man?
+{57927}{57952}Freddie Barnes.
+{57954}{58043}The illnessjust crystallized|his thinking about his presidency.
+{58045}{58086}He realized he didn't have to be a zombie.
+{58088}{58149}He can show some life,|even act like a child.
+{58151}{58228}He shows the same strength of character|as right after his election.
+{58230}{58305}The guy got sick.|He recovered from his illness.
+{58307}{58350}He's now rejuvenated.
+{58352}{58436}On a political rehabilitation scale|of zero to ten...
+{58443}{58506}...rate the rehabilitation of our president.
+{58508}{58554}It's an eight. The zombie is gone.
+{58556}{58613}It's a three. The zombie will return.
+{58616}{58686}I think it's 86.|He's still out to lunch, but looking good.
+{58688}{58752}The answer is eight. We'll be right back.
+{60458}{60486}So...
+{60523}{60580}...the first Iady and the president....
+{60602}{60667}What is that?|How Iong has that been going on?
+{60680}{60715}I can't say.
+{60745}{60809}You mean, you don't know|or you can't say?
+{60841}{60869}I can't say.
+{60941}{60974}Can't say.
+{61085}{61200}So your job is to protect the president|aII the time? That's your whoIe job?
+{61308}{61357}-Do you have a gun?|-Yes.
+{61401}{61429}Ever use it?
+{61470}{61497}Not yet.
+{61740}{61797}You know what I've aIways wondered|about you guys?
+{61799}{61867}The way they say you'd take a buIIet|for the president.
+{61869}{61898}What about it?
+{61909}{61941}Is that true?
+{61956}{62028}WouId you Iet yourseIf be kiIIed|to save his Iife?
+{62039}{62066}CertainIy.
+{62197}{62279}So that means now you wouId|get kiIIed for me, too.
+{62628}{62698}It'd be great for you|and great for the president.
+{62700}{62781}I'm sorry, the only time|I have available is the 25th.
+{62784}{62809}Are you crazy?
+{62811}{62882}That's the best I can do.|I'II get back to you.
+{62892}{62951}You scheduIed a day with the first Iady?
+{62953}{63007}-It's a homeIess sheIter.|-Oh, excuse me.
+{63009}{63039}It's going to be great.
+{63041}{63105}Caring about his wife,|spending time on her favorite issues.
+{63107}{63201}I don't want him caring about his wife.|What about the vice-president?
+{63230}{63264}The vice-president?
+{63266}{63366}WeII, you remember that First Liberty stuff|we aImost got naiIed on?
+{63414}{63472}I just dumped it on him instead.
+{63518}{63558}-When does it break?|-Few days.
+{63560}{63632}Look at Dave's tracking poIIs.|They'II burn up in your hands.
+{63634}{63716}Seventy-three percent with seniors,|eighty-four percent with working mothers.
+{63718}{63770}We stiII gotta controI this guy.
+{64024}{64064}Why are you doing this?
+{64085}{64110}What?
+{64112}{64176}Since when do you care|about the homeIess?
+{64194}{64237}I care about the homeIess.
+{64249}{64310}I'm sure it's keeping you up nights.
+{64957}{65022}Good morning, Mr. and Mrs. President.
+{65074}{65169}Good morning, kids. How are you?|Thank you for that nice weIcome.
+{65297}{65331}They're aII kids.
+{65345}{65408}That's right, BiII. Kids are homeIess, too.
+{65437}{65469}Where are the parents?
+{65471}{65558}A Iot of them are in sheIters,|but some are stiII on the street.
+{65577}{65607}Shake hands.
+{65617}{65643}Hi, there.
+{65689}{65713}HeIIo.
+{65771}{65804}-What's your name?|-Brandon.
+{65806}{65836}How do you do?
+{65871}{65929}What happens when kids|become homeIess is...
+{65931}{65991}...they Iose communication skiIIs.
+{65995}{66051}So here they pIay a Iot of games...
+{66055}{66165}...that encourage the kids to reIate|to each other and to express themseIves.
+{66186}{66227}Oh, no, poor Joe.
+{66266}{66302}He has no....
+{66324}{66349}Hair.
+{66369}{66410}Oh, no, poor Joe.
+{66445}{66471}He has no....
+{66473}{66501}Eyes.
+{66510}{66569}Right. Very good. Let's try one more.
+{66571}{66650}Everybody together, now.|Everybody pay attention.
+{66663}{66704}Oh, no, poor Joe.
+{66728}{66771}-He has no....|-Feet.
+{66805}{66860}Great, great, great. AII right.
+{66972}{66998}Hi, there.
+{67041}{67075}What's your name?
+{67103}{67127}David.
+{67129}{67156}David?
+{67167}{67195}Great name.
+{67260}{67301}What are you doing here?
+{67334}{67359}Nothing.
+{67423}{67474}Hey, guys. Not now, okay?
+{67503}{67529}Thanks.
+{67645}{67719}-Don't you Iike pIaying games with them?|-No.
+{67811}{67845}Do you Iike magic?
+{67847}{67875}It's okay.
+{67879}{67904}Okay.
+{67929}{67961}Watch this.
+{68101}{68131}Where'd it go?
+{68137}{68178}The answer is in this riddIe.
+{68180}{68247}What can run aII day|without ever getting tired?
+{68261}{68290}Do you know?
+{68315}{68353}I'II give you a hint.
+{68355}{68391}It's not your ear.
+{68409}{68449}It's not your mouth.
+{68471}{68501}My nose.
+{68505}{68531}Your nose.
+{68535}{68593}ExactIy. And Iook, there it is.
+{68615}{68665}See? It was there aII the time.
+{68667}{68706}It went up in the air.
+{68779}{68819}And feII on my nose.
+{68937}{68985}Is the first Iady stiII there?
+{69037}{69072}Does she Iook mad?
+{69109}{69137}Not reaIIy.
+{69139}{69163}Good.
+{69183}{69257}First cover of Time magazine|and I need a shave.
+{69283}{69335}Tough IittIe moment with the dog.
+{69341}{69384}Here you are on the cover.
+{69387}{69423}-Where?|-Front page.
+{69425}{69477}-That's you behind me.|-Where?
+{69481}{69521}See? Here's me.
+{69534}{69560}Look here.
+{69562}{69641}You see those 20 guys and then,|bing, there you are.
+{69645}{69702}-That's me?|-Looking very strong and...
+{69711}{69741}...forbidding.
+{69775}{69873}Have you ever thought about wearing|a sweater? You'd bIend in more.
+{69906}{69971}There you are again,|coming off the heIicopter.
+{69977}{70041}Sweaters make my neck Iook too thick.
+{70060}{70132}ReaIIy? Have you got a sweater vest?|You couId wear a tie.
+{70134}{70185}WouId a sweater vest Iook good on me?
+{70297}{70353}Where's the Simpson-Gardner paperwork?
+{70357}{70411}Excuse me. It's right here.
+{70428}{70507}-It just came in.|-I think he's going to veto it.
+{70833}{70873}BiII MitcheII...
+{71017}{71052}...votes no.
+{71249}{71279}''Hail to the Chief
+{71281}{71337}''He's the one we all say 'Hail' to
+{71348}{71386}''We aII say 'HaiI'
+{71388}{71448}'''Cause he keeps himseIf so cIean
+{71462}{71505}''He's got the power
+{71512}{71569}''That's why he's in the shower''
+{71625}{71689}I can't beIieve you wouId do|something Iike this.
+{71691}{71725}Not even you.
+{71735}{71768}How couId you?
+{71805}{71824}What?
+{71826}{71896}Don't patronize me.|I'm not one of your bimbos.
+{71934}{71969}Turn around.
+{71992}{72057}I'm taIking to you. PIease, turn around.
+{72129}{72161}Turn around.
+{72312}{72372}If you want to be the same oId seIfish...
+{72379}{72407}...bastard.
+{72451}{72487}Go ahead. I've gotten used to it.
+{72489}{72598}But don't put on this ''man of the peopIe''|routine and then do something Iike this.
+{72614}{72638}I don't understand.
+{72640}{72709}You know that wasn't|a Works BiII you vetoed.
+{72715}{72771}That wouId've given those kids homes!
+{72773}{72877}When I think of that spectacIe you put on|with that boy and the magic trick.
+{72898}{72946}What's wrong with the magic trick?
+{72948}{73028}It was some magic.|You made their funding disappear!
+{73039}{73080}If there's some mistake--
+{73084}{73164}When you veto their funding,|that's not a mistake.
+{73179}{73259}When you hurt someone intentionaIIy,|that's not a mistake.
+{73717}{73779}CaII Bob. CaII AIan. I want to see them.
+{73785}{73825}But it's 10:30 at night.
+{73828}{73856}You got it.
+{74038}{74070}What the heII is this?
+{74072}{74111}What the heII is this?
+{74128}{74158}The New York Times.
+{74160}{74192}No, this.
+{74233}{74281}''President vetoes Works BiII.''
+{74297}{74327}We vetoed that?
+{74360}{74400}We didn't veto anything.
+{74420}{74497}These things get awfuIIy compIicated|sometimes, and you have to--
+{74499}{74532}The sheIter was in this biII.
+{74534}{74598}-HandIe this.|-BeIieve me, Dave, if we couId have--
+{74600}{74643}Lots of sheIters were in this biII.
+{74645}{74691}Listen, you IittIe shit!
+{74703}{74800}The budget is a very compIicated thing.|I don't understand it sometimes.
+{74804}{74867}OccasionaIIy, we have to make some cuts.|In order--
+{74869}{74905}But we went there.
+{74915}{74967}-We saw those kids.|-Yes, you did.
+{74997}{75083}And if you find a way to cut|$650 miIIion from the budget...
+{75085}{75132}...you can keep your sheIters.
+{75265}{75300}And by the way...
+{75323}{75376}...don't ever send for me again.
+{75868}{75893}Can I heIp you?
+{75895}{75931}I'm here to see the president.
+{75933}{75962}Is that right?
+{75967}{76000}He asked me to come.
+{76002}{76036}And your name?
+{76046}{76089}Murray BIum. B-L-U-M.
+{76093}{76117}Come on, Dave.
+{76119}{76166}-Sit down.|-I don't want to sit there.
+{76168}{76221}-Come on.|-I don't want to. PIease.
+{76232}{76261}Okay, fine.
+{76299}{76354}This pIace is probabIy bugged.
+{76356}{76419}It's not bugged. It's okay, Murray.
+{76557}{76636}You couId get in so much troubIe|if they find out.
+{76639}{76681}-With who?|-The government.
+{76694}{76737}I'm the government.
+{76784}{76812}WiId, huh?
+{76853}{76943}I can't teII you the whoIe story.|It's a nationaI emergency thing.
+{76946}{77000}You've gotta heIp me cut the budget.
+{77054}{77101}You've got to cut the budget?
+{77108}{77151}About $650 miIIion.
+{77218}{77251}You Iook hungry.
+{77306}{77342}PIease come in here.
+{77374}{77402}Just watch.
+{77438}{77473}Yes, Mr. President?
+{77475}{77518}We need two copies of the budget.
+{77520}{77598}CouId you arrange for dinner for two|in the dining room?
+{77600}{77628}Right away, sir.
+{77630}{77688}We have work to do|so we're not to be disturbed.
+{77690}{77725}I understand, sir.
+{77744}{77839}Do you think they couId rustIe up|some bratwurst and mustard?
+{77848}{77892}I think it can be arranged.
+{77968}{78002}I Iove bratwurst.
+{78004}{78030}I know.
+{78048}{78128}I've been over and over this stuff.|It doesn't add up.
+{78130}{78233}Who does these books? If I ran|my office this way, I'd be out of business.
+{78338}{78369}What can we do?
+{78373}{78455}I see pIaces where you couId save,|but I can't make those choices.
+{78457}{78514}I'm not the president. I mean....
+{78516}{78612}You know, I mean, I'm not the one|pretending to be the president.
+{78666}{78696}I understand.
+{78753}{78782}Let me try.
+{78832}{78856}You?
+{78926}{78954}Let me try.
+{79002}{79038}You want to try?
+{79042}{79111}AII right. Here's something right here.
+{79122}{79152}Look at that.
+{79660}{79703}It's a work of art.
+{79721}{79797}Look at this: ''Vice-president's office|Iinked to S&L scandaI.''
+{79799}{79868}AIan, you're a genius. We're on our way.
+{79874}{79916}What's with the cameras?
+{79920}{79989}Hundredth cabinet meeting.|I thought it'd be a nice touch.
+{79991}{80020}Right.
+{80134}{80176}Good morning, Mr. President.
+{80178}{80208}How's everyone?
+{80378}{80427}Before we get started...
+{80443}{80503}...I'd Iike to go over the budget.
+{80522}{80609}-Do we have anything on the budget today?|-No, I don't think so.
+{80685}{80763}I've found some ways to put back|the homeIess section...
+{80765}{80810}...of the Works BiII.
+{80815}{80898}Mr. President, I don't beIieve|that's on your agenda today.
+{80922}{80984}No, it's a Iast minute change, Bob.
+{81028}{81119}Now, the way I see it,|we need $650 miIIion in order to...
+{81170}{81207}...keep the project.
+{81231}{81282}Some of this can be done...
+{81292}{81345}-...through some simpIe changes...|-It's aII right.
+{81347}{81394}...in our cash management.
+{81401}{81436}For exampIe...
+{81440}{81490}...according to the OMB, we've got...
+{81492}{81584}...17 defense contractors|who are deIinquent in their contracts.
+{81588}{81619}Is this true?
+{81622}{81658}I beIieve so.
+{81667}{81704}Even though...
+{81713}{81784}...they're Iate,|we keep paying them on time?
+{81792}{81829}WeII, in a sense....
+{81966}{81999}Okay, now...
+{82010}{82077}...instead of paying them|for something they haven't finished...
+{82079}{82157}...we couId hoId back that cash,|put it in an interest-bearing--
+{82159}{82188}Mr. President.
+{82237}{82264}Yes?
+{82404}{82430}Nothing.
+{82490}{82518}Great.
+{82536}{82639}Like I was saying, if we took that cash|and stuck it in a savings account...
+{82654}{82734}...we'd be making|$23 miIIion a month in interest.
+{82744}{82806}WeII, technicaIIy, that's true, but....
+{82918}{82955}I suppose it's true.
+{83028}{83084}Okay, so that's $23 miIIion...
+{83161}{83204}...times 12 months.
+{83249}{83273}Good.
+{83316}{83404}UnfortunateIy, money management|onIy gets us haIfway to our goaI.
+{83410}{83524}In order to get the rest of the money,|we'II have to make some tough choices.
+{83544}{83584}The Commerce Department.
+{83600}{83635}Yes, Mr. President?
+{83659}{83735}We're spending $47 miIIion|on an ad campaign...
+{83757}{83843}...to boost consumer confidence|in the American auto industry.
+{83906}{83980}It's designed to boIster|individuaI confidence...
+{83984}{84059}...in a previous domestic|automotive purchase.
+{84063}{84170}We're spending $47 miIIion for somebody|to feeI good about a car they've bought?
+{84178}{84222}I wouIdn't categorize it that way.
+{84224}{84280}I'm sure that's important, but...
+{84286}{84381}...I don't want to teII an eight-year-oId kid|he's gotta sIeep in the street...
+{84383}{84462}...because we want peopIe|to feeI better about their car.
+{84524}{84571}Do you want to teII him that?
+{84626}{84651}No, sir.
+{84690}{84726}No, I sure don't.
+{84760}{84818}WeII then, that's another $47 miIIion.
+{84820}{84895}So this is good. ReaI good.|We're on our way.
+{84900}{84967}Let me just add that to the taIIy here.
+{84990}{85036}That'II be pIus 47....
+{85119}{85165}Five, carry the one...
+{85167}{85216}...makes $656 miIIion...
+{85256}{85320}...which means we can keep the program.
+{85576}{85638}-Thank you, sir.|-Thanks for your heIp.
+{85974}{86007}Excuse me.
+{86079}{86108}What is it?
+{86125}{86190}You won't beIieve what your husband did.
+{86296}{86330}I'II kiII him.
+{86379}{86406}You can't kiII a president.
+{86408}{86467}He's not a president.|He's an ordinary person.
+{86469}{86517}I can kiII an ordinary person.
+{86522}{86574}I can kiII 100 ordinary peopIe.
+{86616}{86659}He's onIy doing what you toId him to.
+{86661}{86697}What I toId him to?
+{86699}{86788}I heard you. You said,|''Cut $650 miIIion off the budget...
+{86790}{86853}-''...and you can keep your sheIters.''|-I didn't mean it.
+{86855}{86917}Why wouId I want to save a sheIter?
+{86922}{86953}He was onIy doing his job!
+{86955}{87035}His job? His job? It's not his job!|It's my job!
+{87066}{87109}WiII you caIm down?
+{87151}{87217}Was he on the TriIateraI Commission?|Was he a senator?
+{87219}{87272}Was he in Who's Who nine years in a row?
+{87274}{87309}HeIIo, Judy.
+{87333}{87419}I'II destroy him. I'II shred him!|I'II Iock him away.
+{87432}{87485}Then we'II aII go to jaiI together.
+{87763}{87813}What do you mean by that?
+{87853}{87901}Just what you think I mean.
+{87939}{87985}Are you threatening me?
+{88052}{88081}WeII....
+{88129}{88157}Yeah.
+{88169}{88205}I guess I am.
+{88348}{88382}Thanks, Murray.
+{88388}{88422}You did great.
+{88580}{88663}Maybe you can come back|and we can go to Camp David.
+{88669}{88702}Camp David?
+{88734}{88796}Get out of here as fast as you can.
+{89374}{89405}Come on, seven.
+{89429}{89461}Come on, six.
+{89857}{89886}We both Iose.
+{89903}{89933}We both Iose.
+{89977}{90034}I saw your Iight was on, so I....
+{90107}{90143}Mind if I sit down?
+{90210}{90238}PIease.
+{90302}{90341}WouId you Iike....
+{90365}{90397}No, thanks.
+{90666}{90721}That was quite a thing you did today.
+{90768}{90811}Anyone wouId've done that.
+{90829}{90865}I don't think so.
+{90889}{90933}You heIped a Iot of peopIe.
+{91049}{91077}You know...
+{91109}{91158}...it kind of reminded me...
+{91160}{91250}...of that thing you did a Iong time ago|in the state LegisIature.
+{91350}{91378}Me, too.
+{91439}{91495}You weren't in the state LegisIature.
+{91625}{91666}Hi, I'm EIIen MitcheII.
+{91707}{91734}Who're you?
+{91874}{91922}I'II make this easy on you.
+{91947}{91992}I never see him anymore.
+{92038}{92081}I bareIy know him anymore.
+{92130}{92193}I'd just kind of Iike to know where he is.
+{92340}{92390}This couId get me into troubIe.
+{93061}{93102}Open it, pIease, Duane.
+{93340}{93370}Oh, my God!
+{93381}{93429}I'm sorry, you're not aIIowed in here.
+{93431}{93513}-We have strict instructions.|-I'II expIain it to you Iater.
+{94295}{94327}What happened?
+{94363}{94395}It was a stroke.
+{94421}{94457}It's pretty bad.
+{94582}{94621}I don't understand.
+{94661}{94695}Is he going to....
+{94761}{94791}I'm sorry.
+{95254}{95287}You're Ieaving?
+{95319}{95371}I'm not the first Iady anymore.
+{95401}{95439}I shouIdn't be here.
+{95451}{95488}Where are you going?
+{95613}{95637}Home.
+{95675}{95704}Where's home?
+{95755}{95847}Can we stop with the 20 questions?|I'm reaIIy not in the mood.
+{96075}{96125}Souvenirs. ToweIs and stuff.
+{96151}{96187}You're Ieaving, too?
+{96279}{96327}I never wanted to hurt anybody.
+{96349}{96401}I even thought I was heIping.
+{96948}{96975}You know...
+{96991}{97061}...you make this IittIe deaI|with yourseIf that...
+{97071}{97133}...you can put up|with aII the other women and...
+{97135}{97197}...you can even do without a Iife and...
+{97250}{97308}...you can even do without chiIdren...
+{97345}{97434}...because you beIieve|in what you're doing and you think....
+{97477}{97540}You thought you had a chance|to heIp peopIe.
+{97704}{97758}How are you going to get home?
+{97881}{97932}I don't know. I hadn't reaIIy...
+{97945}{97993}...thought it out that far.
+{98069}{98125}Are you sure this goes somewhere?
+{98135}{98193}They say LBJ used it aII the time.
+{99153}{99219}Duane said he'd Ieave a car|right over there.
+{99353}{99384}When did you...
+{99387}{99445}...first know? I mean, about me?
+{99505}{99549}In the car, I think.
+{99564}{99633}On the way to the sheIter,|you Iooked at my Iegs.
+{99696}{99752}BiII stopped Iooking a Iong time ago.
+{99801}{99852}I thought it was in the shower.
+{100253}{100284}Oh, my God.
+{100321}{100349}PoIice.
+{100489}{100535}-What'd you do?|-I don't know.
+{100747}{100811}-Can I see your driver's Iicense, sir?|-Here.
+{100822}{100856}And registration.
+{100912}{100968}No, I must've Ieft it at home.
+{101005}{101051}Step out of the car, pIease.
+{101121}{101179}-Both of us?|-Both of you, pIease.
+{101359}{101395}You may not be aware...
+{101397}{101479}...but there is a ''No Ieft turn'' sign|just down the bIock.
+{101484}{101521}You went through it.
+{101580}{101632}I don't know what was I thinking.
+{101703}{101743}We're Iook-aIikes.
+{101753}{101799}Not Iike each other, but....
+{101801}{101836}I know what you think.
+{101838}{101895}PeopIe hire us to impersonate|the president and first Iady.
+{101897}{101933}We work out of an agency.
+{101935}{101960}You sure Iook Iike him.
+{101962}{102022}Thanks. We work very hard at it.
+{102027}{102087}She got her hair cut to Iook....|Perfect match.
+{102089}{102165}We just pIayed the Sapperstein wedding.|They Ioved us.
+{102180}{102236}We did our CIub Med routine...
+{102240}{102303}...where they go down to CIub Med...
+{102312}{102415}...and BiII MitcheII says,|''At 07:00, I want an hour of voIIeybaII...
+{102417}{102517}''...and then at 08:30, I want|a compIete briefing on the surf situation.''
+{102523}{102595}And then the big finaIe at the TaIent CIub.
+{102620}{102675}''The sun'II come out tomorrow
+{102683}{102745}''Bet your bottom doIIar that tomorrow''
+{102753}{102799}I'm okay. ''There'II be sun
+{102805}{102860}''Just thinking about tomorrow
+{102887}{102954}''CIears away the cobwebs and the sorrow
+{102961}{102996}''TiII there's none
+{103004}{103036}''Tomorrow
+{103049}{103094}''Tomorrow, I Iove you
+{103101}{103133}''Tomorrow
+{103137}{103182}''It's onIy a day away
+{103229}{103272}''Tomorrow, tomorrow
+{103306}{103352}''We Iove you, tomorrow
+{103363}{103412}''You're onIy a day away''
+{103563}{103649}Thank you. Thanks.|We haven't worked out the finaI harmony.
+{103651}{103684}This is a fuII-time job?
+{103686}{103772}Yeah, IateIy.|LateIy, it's been pretty much fuII-time.
+{103778}{103858}Mr. and Mrs. Kovic,|I'm not going to give you a ticket.
+{103862}{103890}You're not?
+{103893}{103951}You shouId save aII the money you have.
+{104007}{104080}He won't give us a ticket.|He says we shouId save our money.
+{104082}{104119}That's very funny.
+{104138}{104174}You're very good.
+{104181}{104221}But she needs a Iot of work.
+{104223}{104272}Yes, I know. She's kind of new at it.
+{104274}{104307}Drive safeIy.
+{104309}{104370}Thank you, Officer. Thank you very much.
+{104682}{104728}I'm not sure I'm this hungry.
+{104730}{104795}Wait. This is a very speciaI sandwich.
+{104982}{105014}This is good.
+{105024}{105054}What's in it?
+{105072}{105104}That's a secret.
+{105175}{105218}You have a Iot of secrets.
+{105230}{105258}I guess.
+{105474}{105538}So, what do you do the rest of the time?
+{105555}{105606}When I'm not running the country?
+{105651}{105725}I run a temp agency.|You know, secretaries and stuff.
+{105759}{105797}You find peopIe jobs?
+{105870}{105900}Is that funny?
+{105922}{105988}It's just more than most peopIe do|around here.
+{106011}{106078}Don't get carried away.|I'm not that good at it.
+{106083}{106119}And your famiIy?
+{106123}{106168}I assume you're married.
+{106218}{106243}I was.
+{106258}{106282}Once.
+{106330}{106360}It didn't take.
+{106554}{106590}You know, Dave....
+{106596}{106639}It is Dave, isn't it?
+{106699}{106746}I can't keep this a secret.
+{106771}{106803}Yeah, I know.
+{106875}{106918}I Iiked doing it though.
+{106956}{107014}I mean, not the fancy stuff with aII...
+{107018}{107088}...the heIicopters|and the TV cameras, but...
+{107134}{107182}...I Iiked saving that sheIter.
+{107214}{107287}I Iiked heIping peopIe|that I hadn't even met before.
+{107354}{107426}Just then, I feIt Iike|I wasn't pretending anymore.
+{107508}{107562}I don't think you were pretending.
+{107829}{107894}What wouId you do|if you were stiII in there?
+{107963}{108043}I mean, if you had one more chance|to be president...
+{108062}{108106}...what wouId you do then?
+{108356}{108390}Lots of things.
+{108857}{108911}Excuse me. You can't stop here.
+{108922}{108955}No visitors.
+{109051}{109081}Mr. President?
+{109160}{109251}-I'm sorry, sir, I didn't reaIize--|-Just getting some fresh air.
+{109263}{109297}CertainIy, sir.
+{109308}{109362}I was wondering, if you don't mind,|how did you get--
+{109364}{109423}The president wanted some ice cream.
+{110068}{110134}You make a nice president, Dave Kovic.
+{110152}{110180}Thanks.
+{110266}{110297}See you.
+{110639}{110686}We're gIad you're visiting the White House.
+{110688}{110750}Keep moving, foIks. We're waIking.
+{110759}{110817}More than a miIIion visitors come here|every year...
+{110819}{110890}...making it the most frequentIy|toured home in the country.
+{110892}{110952}We're waIking and we're stopping.
+{110955}{111010}Whatever changes from one administration|to the next...
+{111012}{111075}...the White House aIways maintains|its dignity.
+{111077}{111106}We're waIking.
+{111108}{111185}He's waIking. He's Bob AIexander,|the chief of staff.
+{111187}{111215}I can't beIieve it!
+{111217}{111272}What an honor for aII of you.
+{111282}{111354}Forty-two presidents have Iived|in the White House.
+{111504}{111570}I had no part in this. He caIIed himseIf.
+{111838}{111887}What do you think you're doing?
+{111906}{111946}You mean, the press conference?
+{111948}{112024}I have a coupIe ideas|to share with the country.
+{112060}{112088}Share?
+{112104}{112133}Share?
+{112148}{112193}You don't caII a press conference.
+{112195}{112238}I caII a press conference.
+{112264}{112324}You're nothing. Do you understand?
+{112334}{112368}You're nobody.
+{112372}{112410}I'm not nobody.
+{112412}{112446}You're Iint!
+{112462}{112498}You're a fIea!
+{112518}{112554}You're a bIip!
+{112598}{112624}WeII...
+{112640}{112672}...maybe I am.
+{112710}{112744}But you're fired!
+{112832}{112890}I said you're fired. Get out of here.
+{112916}{112948}I'm fired?
+{112956}{112990}You're fired!
+{113046}{113072}Fine.
+{113076}{113100}Fine?
+{113114}{113139}Fine.
+{113180}{113234}The whoIe press corps is out there.
+{113236}{113306}ShouId I go teII them? Or did you want to?
+{113340}{113446}DarIing, they're waiting in the Press Room.|I think you shouId get in there.
+{113530}{113590}I'm sorry. I thought we were aIone.
+{113818}{113901}I'd Iike your resignation on my desk|by the time I get back.
+{114068}{114120}Don't touch anything on that desk.
+{114217}{114250}What's up?
+{114254}{114291}It must be the vice-president.
+{114293}{114376}The ex-vice-president.|He'II be a prison reformer soon.
+{114406}{114452}They're coming. Let's go.
+{114608}{114638}Good Iuck.
+{114845}{114905}Thanks for coming on such short notice.
+{114997}{115064}I'd Iike to begin|with an announcement that...
+{115102}{115154}...may come as a surprise for you.
+{115158}{115186}I've...
+{115202}{115288}...asked Bob AIexander to resign|as White House chief of staff.
+{115358}{115462}Over the Iast few months, Bob and I|have come to beIieve in different things.
+{115480}{115589}He thinks this country's fine and we|shouId go about doing business as usuaI.
+{115662}{115705}I just don't feeI that way.
+{115736}{115768}Not anymore.
+{115796}{115843}Because things aren't fine.
+{115860}{115945}We've got so many probIems,|we don't want to Iook at them anymore.
+{115947}{116009}They bIend together into this big noise...
+{116030}{116096}...and soon we can't even hear|ourseIves think.
+{116104}{116156}But that's not even the worst part.
+{116163}{116200}The worst part is...
+{116225}{116290}...we feeI Iike we can't do anything|about it.
+{116326}{116367}And that's a tragedy...
+{116390}{116425}...because we can.
+{116497}{116578}We don't know where to start,|maybe that's what it is.
+{116598}{116636}But I have an idea...
+{116644}{116689}...of where we can start.
+{116764}{116794}From today...
+{116845}{116922}...I'm making it the responsibiIity|of this government...
+{116924}{116994}...to find a job for every American|who wants one.
+{117103}{117168}Have you seen the Iook|on someone's face...
+{117188}{117244}...the day they finaIIy get a job?
+{117268}{117320}I've had some experience with this.
+{117337}{117386}They Iook Iike they couId fIy.
+{117392}{117491}It's not about the paycheck.|It's about Iooking in the mirror...
+{117502}{117585}...and knowing you've done|something vaIuabIe with your day.
+{117589}{117675}And if one person couId start|to feeI that way, then another...
+{117685}{117772}...soon aII these other probIems|we're facing may not seem so...
+{117800}{117837}...impossibIe.
+{118004}{118069}You don't know what you can do|untiI you...
+{118076}{118130}...stand up and decide to try.
+{118370}{118432}That's it. Let's get to work. Thank you.
+{118506}{118545}Thank you, Mr. President.
+{118547}{118630}In the boIdest initiative yet|of the new MitcheII administration...
+{118632}{118722}...the president has proposed|a fuII empIoyment program...
+{118725}{118788}...unparaIIeIed since the days of FDR.
+{118798}{118885}The proposaI brought swift reaction,|here on CapitoI HiII.
+{118890}{118994}The president's on the right track.|We should be putting people to work.
+{118998}{119076}It's better to have people working|than collecting welfare checks.
+{119078}{119182}We're carrying the water for him.|I've carried a lot of water for him.
+{119185}{119218}And then now to say this.
+{119220}{119265}The guy's out to lunch.
+{119316}{119368}The lights are on but no one's home.
+{119370}{119473}I love it. It's great. All we've gotta do|is cut ''Star Wars'' and we can pay for it.
+{119475}{119572}I want to look at Mitchell's proposal|to see how he intends to pay for it.
+{119574}{119666}It's like the program I presented|when I ran for president four years ago.
+{119668}{119753}Has the president taken Ieave|of his facuIties? I'm asking you.
+{119755}{119809}It's the definition of modern Ieadership.
+{119811}{119884}You set out a boId goaI|and you don't say how you'II do it.
+{119886}{119950}They tried this in Russia|and wrecked the country.
+{119952}{119997}I wonder if the Communists got to him?
+{119999}{120062}If you Iook at a photo of MitcheII...
+{120064}{120176}...taken before the stroke and one after,|you wiII see distinct differences.
+{120179}{120227}Are you saying this is a conspiracy?
+{120229}{120291}Yes, I am saying it's a conspiracy.
+{120295}{120339}Do you think you're a bit paranoid?
+{120341}{120397}Have you compared the photographs?
+{120985}{121022}This is crazy.
+{121112}{121215}The US News hammered us, but they're|aIways tough. RosenthaI Ioved us.
+{121218}{121241}That's good.
+{121243}{121298}Mr. Nance is waiting for you.
+{121306}{121355}-Who?|-The vice-president.
+{121419}{121462}The vice-president.
+{121477}{121515}Nance. I thought....
+{121544}{121585}I want my ears checked.
+{121587}{121634}Sorry, I didn't understand.
+{121636}{121696}Ever since the stroke I get a IittIe....
+{121722}{121756}Oh, my God!
+{122279}{122319}Mr. President...
+{122358}{122413}...these are a gift from the King of Togo.
+{122415}{122455}FertiIity beads.
+{122467}{122537}And these are from the peopIe of Burundi.
+{122599}{122626}Thank you.
+{122628}{122687}They know hats in Burundi. Look.
+{122763}{122817}Mr. President,|may I speak frankIy with you?
+{122819}{122883}Yes, pIease. Sit down.|It's good to see you.
+{122983}{123077}I know we don't aIways get aIong.|We've disagreed, poIiticaIIy.
+{123079}{123158}And I suppose I know|what you think of me personaIIy.
+{123197}{123284}But I've aIways tried to respect|the roIe you wanted me to pIay.
+{123306}{123396}When I disagreed with this administration,|I kept it to myseIf.
+{123434}{123499}When you wanted my support,|you aIways had it.
+{123542}{123576}Damn it, BiII.
+{123580}{123642}How couId you do|something Iike this to me?
+{123691}{123715}Do what?
+{123717}{123764}Come on, we're not chiIdren!
+{123772}{123877}I didn't have anything to do with this|First Liberty nonsense and you know it!
+{123886}{123914}First Liberty.
+{123916}{123972}AII I've got is my integrity, BiII.
+{124036}{124077}That's aII I have Ieft.
+{124082}{124147}I don't know why you turned|your attack dogs on me.
+{124149}{124188}They're not my attack dogs.
+{124190}{124214}What?
+{124244}{124275}I'II take care of this.
+{124280}{124337}-We made it up.|-What do you mean?
+{124348}{124416}We had to, Dave. The guy's a Boy Scout.
+{124420}{124454}But this is wrong.
+{124468}{124496}Wrong?
+{124508}{124596}I know. It Iooks awfuIIy bad|and I'm reaIIy embarrassed, but....
+{124605}{124640}It was Bob's idea.
+{125176}{125290}When I first began to Iook into|the aIIegations concerning First Liberty...
+{125312}{125412}...I thought the wrongdoing|was restricted to the vice-president.
+{125432}{125488}You better take a Iook at this.
+{125540}{125589}But as I began to investigate,|I realized that...
+{125591}{125673}...this pattern of corruption|extended much higher.
+{125726}{125791}I was saddened to discover at least 15...
+{125794}{125884}...separate acts of intervention|by this administration...
+{125893}{126002}...most with the full knowledge|of the president, and all of them illegal.
+{126020}{126076}Federal regulators were influenced...
+{126099}{126150}...records were destroyed...
+{126152}{126209}...and pressure was brought to bear...
+{126238}{126274}...in some cases...
+{126292}{126352}...by President Mitchell himself.
+{126356}{126426}-Now he's making up stuff about me.|-He's not.
+{126492}{126522}He's not?
+{126592}{126620}I did aII that?
+{126622}{126679}You didn't. BiII MitcheII did.
+{126902}{126967}This is a mistake.|We shouIdn't be doing this.
+{126985}{127026}I can't go into hiding.
+{127570}{127627}Is this job stuff just a smoke screen?
+{127714}{127798}I don't know how eIse to put it.|This dog just won't hunt.
+{127828}{127920}We may be abIe to hoId off|on this First Liberty thing for a whiIe...
+{127922}{127979}...but if you start pushing this new jobs--
+{127981}{128039}Just put us on a spit and bring the sauce.
+{128041}{128116}-If you'd just wait a few months.|-Yeah, wait.
+{128156}{128198}I don't want to wait. We can't.
+{128200}{128263}Mr. President,|I understand how you feeI, but...
+{128265}{128331}...we're taIking about obstructing|federaI reguIators...
+{128333}{128385}...vioIating eIection Iaws.
+{128398}{128462}I got peopIe up on the HiII|taIking about impeachment.
+{128464}{128529}What is with President MitcheII IateIy?
+{128533}{128641}I know the president's supposed to serve|four years, but now it may be 15 to 20.
+{128696}{128778}We make fun of the president.|But it's a tough job.
+{128796}{128905}Today the president woke up, broke|the law, got caught and pardoned himself.
+{128912}{128955}That is a full day.
+{129029}{129066}Mr. President...
+{129078}{129114}...may I come in?
+{129188}{129250}A dirty business we're in, sometimes.
+{129372}{129405}Mr. President...
+{129408}{129505}...whatever happens, I want you to know,|I think your jobs program is...
+{129507}{129546}...a wonderfuI idea.
+{129624}{129650}Thanks.
+{129660}{129726}Not many peopIe wiII pay attention now,|but....
+{129758}{129784}Thanks.
+{130008}{130042}WouId you Iike to...
+{130044}{130086}...sit down for a minute?
+{130388}{130420}Do you ever...
+{130452}{130510}...think back to how you got started?
+{130610}{130654}I was a shoe saIesman.
+{130686}{130730}But not happy about it.
+{130752}{130806}One day, my wife says to me:
+{130844}{130900}''Why don't you run for office?
+{130914}{130964}''You taIk about it aII the time.
+{130980}{131058}''Why don't you just do it?''|So I teII my boss...
+{131078}{131137}...I have a dentist appointment...
+{131140}{131214}...and I go down|to the Registrar of Voters...
+{131227}{131264}...on my Iunch break.
+{131307}{131367}The next thing I know, I'm a counciIman.
+{131386}{131404}ReaIIy?
+{131406}{131468}My wife was my campaign manager.|We had...
+{131476}{131545}...a budget of $2,000, with advertising.
+{131741}{131770}How about you?
+{131789}{131815}Me?
+{131864}{131908}How did you get started?
+{131982}{132024}Kind of the same way.
+{132327}{132389}The vice-president's a good man, isn't he?
+{132586}{132628}He's a very good man.
+{132808}{132850}I don't want to Iose you.
+{133278}{133367}The president requested this rare,|joint session of Congress...
+{133369}{133466}...so he can personaIIy answer|the aIIegations raised by Bob AIexander...
+{133468}{133505}...his former chief of staff.
+{133507}{133590}It's hard to recall the last time|both houses of Congress...
+{133592}{133684}...convened without any idea|of what the president plans to say.
+{133687}{133795}One would speculate that it's about|the charges against Mitchell and Nance.
+{133798}{133892}Those rumors have been circulating|on Capitol Hill for several weeks.
+{133933}{133991}It's time to go. Better get inside.
+{134000}{134060}It's set with Duane? Everything's here?
+{134062}{134095}Okay, Iet's go.
+{134187}{134216}ReIax.
+{134275}{134311}Enjoy the moment.
+{134451}{134499}-HeIIo, Ben.|-Big day, Bob.
+{134502}{134557}-Thanks for coming.|-I wouIdn't miss it.
+{134559}{134600}You know the CIaghorns?
+{134618}{134655}Hey, Bob, what do you think?
+{134657}{134725}Put that away.|Let's wait tiII the speech first.
+{134763}{134815}The House wiII be in order!
+{134842}{134894}The House wiII be in order!
+{134999}{135077}Mr. Speaker,|the President of the United States.
+{135897}{135930}Thank you.
+{136010}{136043}Here it comes.
+{136120}{136151}Mr. Speaker.
+{136172}{136203}Vice-President.
+{136231}{136272}Members of Congress.
+{136298}{136339}Fellow Americans.
+{136405}{136486}I wish I couId be here today|under different circumstances.
+{136514}{136605}There are many things|about this country we shouId discuss.
+{136614}{136673}But I reaIize that's not possibIe now.
+{136706}{136810}As you know, my former chief of staff|has impIicated me in a scandaI...
+{136812}{136888}...invoIving|the First Liberty Savings and Loan.
+{136901}{137006}Once peopIe start discussing a scandaI,|it's hard to taIk about anything eIse.
+{137016}{137060}Let's taIk about it.
+{137111}{137168}Bob AIexander has accused me of....
+{137186}{137251}Let me read this to make sure I get it right.
+{137264}{137377}''...iIIegaIIy infIuencing reguIators|on behaIf of campaign contributors...
+{137396}{137470}''...interfering with an ongoing|Justice Department investigation...
+{137472}{137570}''...and vioIating federaI eIection Iaws|in the area of campaign finance.''
+{137580}{137633}Let's get to the guts of it.
+{137646}{137705}Each one of these charges is true.
+{137768}{137810}Die, you pond scum.
+{137812}{137900}I'm the president, and as they say,|the buck stops here.
+{137906}{138008}So I take fuII responsibiIity|for every one of my iIIegaI actions.
+{138066}{138120}But that's not the whoIe story.
+{138157}{138245}And I think each one of you|is entitIed to the whoIe truth.
+{138272}{138326}I have here written proof...
+{138396}{138491}...in the form of notes,|memoranda and personaI directives...
+{138505}{138585}...proving that Bob AIexander|was aIso invoIved...
+{138605}{138704}...in each of these incidents|and, in most cases, planned them as well.
+{138845}{138932}AIIegations of wrongdoing|have aIso been made against Nance.
+{138951}{139015}As this evidence wiII prove, at no time...
+{139017}{139095}...and in no way was the vice-president|invoIved in any of this.
+{139097}{139148}Bobjust made all that up.
+{139208}{139256}Vice-President Nance...
+{139271}{139341}...is a good and decent pubIic servant...
+{139356}{139452}...and I'd Iike to apoIogize for any pain|this caused him or his famiIy.
+{139833}{139880}WhiIe we're on the subject...
+{139901}{139979}...I'd Iike to apoIogize|to the American peopIe.
+{140001}{140034}You see...
+{140049}{140131}...I forgot that I was hired|to do a job for you...
+{140149}{140205}...and it was just a temp job.
+{140222}{140273}I forgot I had 250 miIIion peopIe...
+{140275}{140351}...who were paying me|to make their Iives a bit better.
+{140360}{140423}I didn't live up to my part of the bargain.
+{140494}{140580}There are certain things|you shouId expect from your president.
+{140625}{140696}I had to care more about you|than I do about me.
+{140712}{140760}I had to care more about...
+{140793}{140869}...what's right than I do|about what's popuIar.
+{140961}{141036}I ought to be wiIIing to give up|this whoIe thing...
+{141053}{141103}...for something I beIieve in...
+{141147}{141188}...because if I'm not....
+{141264}{141298}If I'm not....
+{141457}{141489}If I'm not....
+{141547}{141585}If I'm not, then...
+{141592}{141657}...maybe I don't beIong here in the first....
+{141749}{141785}Get a doctor!
+{144286}{144310}WeII?
+{144339}{144363}WeII?
+{144462}{144505}Are you okay getting home?
+{144535}{144574}Yeah, it's not far.
+{144652}{144679}Take care.
+{144834}{144886}I wouId've taken a buIIet for you.
+{145131}{145163}Thanks, Duane.
+{146898}{146942}The stroke hit at 8:42 p.m...
+{146944}{147043}...just as the president was concluding|his remarks to ajoint session of Congress.
+{147045}{147095}Spokesmen at the First Naval Hospital...
+{147097}{147159}...have confirmed it was a massive edema.
+{147165}{147257}Unlike his previous stroke,|it has left the president fully incapacitated.
+{147259}{147329}The nation mourned|as President William Harrison Mitchell...
+{147331}{147413}...was laid to rest at|Arlington National Cemetery.
+{147428}{147490}After lingering in a coma|for almost five months...
+{147492}{147561}...the president succumbed Thursday,|at 4:20 p.m.
+{147563}{147649}In a bittersweet ceremony in the capital,|Vice-President Gary Nance...
+{147651}{147758}...was officially sworn in today|as the 45th president of the United States.
+{147767}{147878}Under the terms of the 25th Amendment,|Nance has been acting with full authority...
+{147880}{147946}...since Bill Mitchell's incapacitation.
+{148010}{148077}I plan to continue|Bill Mitchell's call to arms.
+{148100}{148165}This isn't my presidency,|it's his presidency.
+{148179}{148258}And I can't think of a better way|to ensure his legacy...
+{148272}{148340}...than to continue|the principles he initiated.
+{148348}{148427}Bob Alexander and eight other members|of the Mitchell administration...
+{148429}{148508}...were indicted on 34 counts|of election law violations...
+{148510}{148547}...and obstruction ofjustice.
+{148549}{148613}Ironically, the indictments came|just 48 hours...
+{148619}{148724}...after passage of the Mitchell Jobs Bill,|a comprehensive employment program.
+{148771}{148862}We have a Iimited amount of buttons,|so no buttons in the enveIopes.
+{148939}{148993}Dave Kobic. Time for a change.
+{149019}{149050}Kovic. Kovic.
+{149068}{149170}We have a Iimited amount of posters.|Just put them in the reaIIy busy pIaces.
+{149172}{149228}She's terrific. She can do anything.
+{149239}{149279}Okay, but she's changed.
+{149308}{149404}It's the middIe of winter.|They'II turn off her heat. She needs a job.
+{149683}{149729}WouId you Iike to voIunteer?
+{149759}{149793}You're a good man.
+{149795}{149873}Did you get the fund-raising thing|I sent you? City CounciI.
+{149875}{149911}We have fIyers here.
+{149958}{150023}We're on a roII now. Karen, you got a job.
+{150028}{150053}It's Monday.
+{150055}{150111}And everybody works on Monday.
+{150481}{150532}I understand you find peopIe jobs?
+{150629}{150660}You Iook great!
+{150727}{150785}I saw you on TV at the funeraI and....
+{150847}{150884}That's finaIIy over.
+{151120}{151169}Why don't we go into my office?
+{151174}{151203}Excuse us.
+{153486}{153541}Ripped by sCrew
