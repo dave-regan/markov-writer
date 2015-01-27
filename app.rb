@@ -4,8 +4,18 @@ require 'json'
 
 get '/markov.json' do
 
-	content_type :json
-	{:resp => ReturnResp(params) }.to_json
+	callback = params.delete('callback') # jsonp
+	json = {:resp => ReturnResp(params) }.to_json
+
+	if callback
+      content_type :js
+      response = "#{callback}(#{json})" 
+    else
+      content_type :json
+      response = json
+    end
+    
+    response
 
 end
 
