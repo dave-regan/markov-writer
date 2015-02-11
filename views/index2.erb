@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script src="assets/js/jquery-1.11.2.min.js"></script>
+<style>
+
+@font-face {
+    font-family: 'antwerp';
+    src: url('assets/font/antwerp_light_italic-webfont.eot');
+    src: url('assets/font/antwerp_light_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('assets/font/antwerp_light_italic-webfont.woff2') format('woff2'),
+         url('assets/font/antwerp_light_italic-webfont.woff') format('woff'),
+         url('assets/font/antwerp_light_italic-webfont.ttf') format('truetype'),
+         url('assets/font/antwerp_light_italic-webfont.svg#antwerplight_italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'antwerp';
+    src: url('assets/font/antwerp_light-webfont.eot');
+    src: url('assets/font/antwerp_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('assets/font/antwerp_light-webfont.woff2') format('woff2'),
+         url('assets/font/antwerp_light-webfont.woff') format('woff'),
+         url('assets/font/antwerp_light-webfont.ttf') format('truetype'),
+         url('assets/font/antwerp_light-webfont.svg#antwerplight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+body, html {
+	font-size: 12px;
+	font-family: antwerp; serif;
+	/* -webkit-font-smoothing: antialiased; */
+	color: rgb(80, 80, 80);
+	text-rendering: optimizeLegibility;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color: rgb(80, 80, 80);
+    opacity: 0.3;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: rgb(80, 80, 80);
+    opacity: 0.3;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: rgb(80, 80, 80);
+    opacity: 0.3;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: rgb(80, 80, 80);
+    opacity: 0.3;
+}
+
+#container {
+	margin: 15% auto;
+	max-width: 600px;
+}
+
+#container_currentword {
+	position: relative;
+	display: inline;
+}
+
+nav {
+	text-align: center;
+}
+
+.dictionary_image {
+	height: 50px;
+	width: 50px;
+}
+
+nav p {
+	font-family: Antwerp, serif;
+	font-weight: 300;
+	font-style: italic;
+	letter-spacing: 0.5px;
+	font-size: 1rem;
+	color: rgb(98, 98, 98);
+}
+
+#nav_dropdown {
+	font-family: lato, sans-serif;
+	text-transform: uppercase;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(80, 80, 80);
+	letter-spacing: 1px;
+	font-size: 0.8rem;
+	font-weight: 600;
+}
+
+/*
+#nav_dropdown::after {
+	content: "▾";
+}
+*/
+
+#message {
+	margin-top: 4rem;
+}
+
+.message_text {
+	font-size: 3rem;
+	font-weight: 300;
+	line-height: 3.8rem;
+	cursor: default;
+	margin-right: 7px;
+}
+
+#currentword, #autosuggest {
+	font-family: Antwerp, serif;
+	color: rgb(80, 80, 80);
+	background-color: rgba(255, 255, 255, 0);
+	font-size: 3rem;
+	font-weight: 300;
+	line-height: 3.8rem;
+	border: 0;
+	padding: 0;
+	outline: 0;
+	position: absolute;
+	z-index: 1;
+	transition: all 2s;
+	-webkit-transition: all 2s;
+}
+
+#suggestions {
+	width: 500px;
+	position: absolute;
+	left: 0;
+	top: 2rem;
+	font-family: Antwerp, serif;
+	color: rgb(80, 80, 80);
+	font-size: 3rem;
+	font-weight: 300;
+	line-height: 3.8rem;
+}
+
+#suggestion_list {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	color: rgb(80, 80, 80);
+    opacity: 0.3;
+}
+
+#currentword::before {
+	content: "motorcycle";
+}
+
+#completed {
+	opacity: 0.3;
+}
+
+</style>
+</head>
+<body>
+
+<div id="container">
+	<nav>
+		<img src='assets/img/ahnold.jpg' class='dictionary_image'>
+		<p>Practically fluent in <a href="/overlay" id="nav_dropdown">arnold schwarzenegger</a></p>
+	</nav>
+	<section id="message">
+		<!-- <span class="message_text" data-word-count="0">I</span> -->
+		<span id="container_currentword">
+			<input id="currentword" type="text" placeholder="" autofocus>
+			<div id="suggestions">
+				<ol id="suggestion_list"></ol>
+			</div>
+		</span>
+	</section>
+</div>
+
+<script type="text/javascript">
+
+wordcount = 0;
+
+resp = {};
+
+suggested_array = [];
+
+$(document).ready(function() {
+	$( "#currentword" ).before( "<input id='autosuggest' style='z-index: 0!important' placeholder='Type to start' disabled></input>" );   
+});
+
+
+$( "#currentword" ).on ( "keyup", function( event ) {
+
+	if (( event.which == 32 ) && ($( "#currentword" ).val() != "" )) {
+		// Press space to skip to next word if already letters typed
+		wordcount = wordcount + 1;
+		RequestHandler($( "*[data-word-count=" + (wordcount-1) + "]" ).text() , $( "#currentword" ).val().trim(), false );
+		// Animate to buy time for RequestHandler to complete
+		$( "<span class='message_text' data-word-count='" + wordcount + "'></span>" ).insertBefore( "#container_currentword" );
+		$( "*[data-word-count=" + wordcount + "]" ).text( $( "#currentword" ).val().trim() );
+		$( "#currentword" ).val( "" );
+
+	} else if (( event.which == 8 ) && ($( "#currentword" ).val() == "" )) {
+		// Focus on the previous word if delete in empty input
+		$( "#currentword" ).val( $( "*[data-word-count=" + wordcount + "]" ).text().trim() );
+		$( "*[data-word-count=" + wordcount + "]" ).remove();
+		$( "#currentword" ).select();
+		RequestHandler($( "*[data-word-count=" + (wordcount) + "]" ).text() , $( "#currentword" ).val().trim(), true );
+		wordcount = wordcount - 1;
+
+	} else if (( event.which == 13 ) && ($( "#currentword" ).val() != "" )) {
+		// Press enter to skip to next word if already letters typed
+		wordcount = wordcount + 1;
+		RequestHandler($( "*[data-word-count=" + (wordcount-1) + "]" ).text() , $( "#currentword" ).val().trim(), false );
+		$( "<span class='message_text' data-word-count='" + wordcount + "'></span>" ).insertBefore( "#container_currentword" );
+		$( "*[data-word-count=" + wordcount + "]" ).text( $( "#currentword" ).val().trim() );
+		$( "#currentword" ).val( "" );
+
+	} else if (( event.which <= 90 && event.which >= 48 ) || event.which == 8 ) {
+		// If key is a letter or number
+		RequestHandler($( "*[data-word-count=" + wordcount + "]" ).text() , $( "#currentword" ).val().trim(), true );
+	};
+});
+
+function RequestHandler( w1, w2, partial ) {
+
+	switch( partial ) {
+		case true:
+			// If the user is mid-word, we want to check 1) does a response from the API exist? and 2) is it still relevant?
+
+			// ...If a response from the API already exists, check that first...
+			if ( $.isEmptyObject( resp ) == false ) {
+				suggested_array = AutosuggestSorter( w1, w2, resp, partial );
+			}
+
+			// ...and if the suggestion array still isn't full, then query API.
+			//if((suggested_array.length < 3)) {
+				$.ajax({
+				    type: 'get',
+				    url: '/markov.json?w1='+w1+'&w2='+w2+'&partial='+partial+'&dictionary=arnold-schwarzenegger',
+				    dataType: 'jsonp',
+				    success: function( response ) {
+						resp = response;
+						suggested_array = AutosuggestSorter( w1, w2, resp, partial );
+		    		}
+				});
+			//}
+
+		break;
+
+		case false:
+		// If the user is creating a new word, no need to check the array––it'll be irrelevant. Make a request straight away, instead.
+
+			$.ajax({
+			    type: 'get',
+			    url: '/markov.json?w1='+w1+'&w2='+w2+'&partial='+partial+'&dictionary=arnold-schwarzenegger',
+			    dataType: 'jsonp',
+			    success: function( resp ) {
+					suggested_array = AutosuggestSorter( w1, w2, resp, partial );
+	    		}
+			});
+		break;
+	}
+
+	AutosuggestPopulator( suggested_array );
+
+	suggested_array = [];
+}
+
+function AutosuggestSorter( w1, w2, resp, partial ) {
+
+	local1_suggested_array = [];
+
+	switch( partial ) {
+		case true:
+
+		// If the user is mid-word, we need to check whether the current word starts the same as any first word in the response array.
+			$.each( resp["resp"], function( respw1, respw2_arr ) {
+				if ( w2 == respw1.substring( 0, w2.length )) {
+					for ( i = 0; i < respw2_arr.length; i++ ) {
+						// For each second word, add the matched word and the second word to the suggested array.
+						local1_suggested_array.push( respw1 + " " + respw2_arr[i] );
+					};
+				}
+				return ( local1_suggested_array.length = 3 );
+			} );
+
+		break;
+		case false:
+		// If the user is adding a new word, we'll just want to add the first three root words from the response array.
+			$.each( resp["resp"], function( respw1, respw2_arr ) {
+				local1_suggested_array.push( respw1 );
+				return ( local1_suggested_array.length = 3 );
+			} );
+		break;
+	}
+
+	// alert( "m1: " + local1_suggested_array[0] + " m2: " + local1_suggested_array[1] + " m3: " + local1_suggested_array[2] + " length: " + local1_suggested_array.length );
+	//alert(local1_suggested_array[0]);
+	return local1_suggested_array;
+}
+
+function AutosuggestPopulator( local2_suggested_array ) {
+
+	// Now populate the interface. Start with the placeholder text for the textfield...
+	$( "#autosuggest" ).attr("placeholder", local2_suggested_array[0] );
+
+	// ...then delete all suggestions in the list...
+	$( ".suggest" ).remove();
+
+	// ...and finish by populating the list with everything that's left.
+	for ( i = 1; i < local2_suggested_array.length; i++ ) {
+		$( "#suggestion_list" ).append( "<li class='suggest' data-suggest='" + i + "'>" + local2_suggested_array[i] + "</li>" );
+	};
+}
+
+</script>
+
+</body>
+</html>

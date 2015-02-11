@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script src="assets/js/jquery-1.11.2.min.js"></script>
+<style>
+
+@font-face {
+    font-family: 'antwerp';
+    src: url('assets/font/antwerp_light_italic-webfont.eot');
+    src: url('assets/font/antwerp_light_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('assets/font/antwerp_light_italic-webfont.woff2') format('woff2'),
+         url('assets/font/antwerp_light_italic-webfont.woff') format('woff'),
+         url('assets/font/antwerp_light_italic-webfont.ttf') format('truetype'),
+         url('assets/font/antwerp_light_italic-webfont.svg#antwerplight_italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'antwerp';
+    src: url('assets/font/antwerp_light-webfont.eot');
+    src: url('assets/font/antwerp_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('assets/font/antwerp_light-webfont.woff2') format('woff2'),
+         url('assets/font/antwerp_light-webfont.woff') format('woff'),
+         url('assets/font/antwerp_light-webfont.ttf') format('truetype'),
+         url('assets/font/antwerp_light-webfont.svg#antwerplight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+body, html {
+	font-size: 12px;
+	font-family: antwerp; serif;
+	/* -webkit-font-smoothing: antialiased; */
+	color: rgb(80, 80, 80);
+	text-rendering: optimizeLegibility;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color: rgb(80, 80, 80);
+    opacity: 0.3;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: rgb(80, 80, 80);
+    opacity: 0.3;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: rgb(80, 80, 80);
+    opacity: 0.3;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: rgb(80, 80, 80);
+    opacity: 0.3;
+}
+
+#container {
+	margin: 15% auto;
+	max-width: 600px;
+}
+
+#container_currentword {
+	position: relative;
+	display: inline;
+}
+
+nav {
+	text-align: center;
+}
+
+img {
+	height: 50px;
+	width: 50px;
+}
+
+nav p {
+	font-family: Antwerp, serif;
+	font-weight: 300;
+	font-style: italic;
+	letter-spacing: 0.5px;
+	font-size: 1rem;
+	color: rgb(98, 98, 98);
+}
+
+#nav_dropdown {
+	font-family: lato, sans-serif;
+	text-transform: uppercase;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(80, 80, 80);
+	letter-spacing: 1px;
+	font-size: 0.8rem;
+	font-weight: 600;
+}
+
+/*
+#nav_dropdown::after {
+	content: "▾";
+}
+*/
+
+#message {
+	margin-top: 4rem;
+}
+
+.message_text {
+	font-size: 3rem;
+	font-weight: 300;
+	line-height: 3.8rem;
+	cursor: default;
+	margin-right: 7px;
+}
+
+#currentword, #autosuggest {
+	font-family: Antwerp, serif;
+	color: rgb(80, 80, 80);
+	background-color: rgba(255, 255, 255, 0);
+	font-size: 3rem;
+	font-weight: 300;
+	line-height: 3.8rem;
+	border: 0;
+	padding: 0;
+	outline: 0;
+	position: absolute;
+	z-index: 1;
+	transition: all 2s;
+	-webkit-transition: all 2s;
+}
+
+#suggestions {
+	width: 500px;
+	position: absolute;
+	left: 0;
+	top: 2rem;
+	font-family: Antwerp, serif;
+	color: rgb(80, 80, 80);
+	font-size: 3rem;
+	font-weight: 300;
+	line-height: 3.8rem;
+}
+
+ol {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+#suggestion_list {
+	color: rgb(80, 80, 80);
+    opacity: 0.3;
+}
+
+#completed {
+	opacity: 0.3;
+}
+
+#list-options {
+	max-width: 415px;
+	margin: 0 auto;
+}
+
+#list-options li {
+	margin-bottom: 5rem;
+}
+
+.list-option-title {
+	font-weight: 300;
+	margin: 0;
+	color: rgb(82, 82, 82);
+	font-size: 1.6rem;
+}
+
+.list-option-source {
+	font-style: italic;
+	font-size: 1.15rem;
+	color: rgb(183, 183, 183);
+}
+
+.list-option-image {
+	position: relative;
+	left: 0px;
+	float: right;
+	-webkit-transition: all 0.1s ease-in;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover .list-option-image {
+	left: 7px;
+	-webkit-transition: all 0.1s ease-out;
+}
+
+</style>
+</head>
+<body>
+
+<div id="container">
+	<nav>
+	</nav>
+	<section id="list">
+		<ol id="list-options">
+			<li>
+				<a href="/arnold-schwarzenegger">
+				<div>
+					<img src="assets/img/ahnold.jpg" class="list-option-image">
+					<h3 class="list-option-title">Arnold Schwarzenegger</h3>
+					<span class="list-option-source">Cinematography, 1979&ndash;2014</span>
+				</div>
+				</a>
+			</li>
+			<li>
+				<a href="/greys-anatomy">
+				<div>
+					<img src="assets/img/grey.jpg" class="list-option-image">
+					<h3 class="list-option-title">Grey's Anatomy</h3>
+					<span class="list-option-source">Series 1&ndash;9, 2000&ndash;2014</span>
+				</div>
+				</a>
+			</li>
+			<li>
+				<a href="/william-shakespeare">
+				<div>
+					<img src="assets/img/shakespeare.jpg" class="list-option-image">
+					<h3 class="list-option-title">William Shakespeare</h3>
+					<span class="list-option-source">Collected works, 1638&ndash;1670</span>
+				</div>
+				</a>
+			</li>
+			<li>
+				<a href="/snoop-doggy-dogg">
+				<div>
+					<img src="assets/img/snoop.jpg" class="list-option-image">
+					<h3 class="list-option-title">Snoop 'Doggy' Dogg</h3>
+					<span class="list-option-source">Collected Lyrics, 1998&ndash;2014</span>
+				</div>
+				</a>
+			</li>
+		</ol>
+	</section>
+</div>
+
+</body>
+</html>
