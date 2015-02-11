@@ -35,9 +35,9 @@ end
 
 def ReturnResp(params)
 
-	# redis = Redis.new(:url => 'redis://redistogo:f9ee22f5c4836345ebd34fc04c0c7621@jack.redistogo.com:11378/')
+	redis = Redis.new(:url => 'redis://redistogo:f9ee22f5c4836345ebd34fc04c0c7621@jack.redistogo.com:11378/')
 
-	redis = Redis.new(:url => 'redis://localhost:6379')
+	# redis = Redis.new(:url => 'redis://localhost:6379')
 
 	if params[:dictionary].nil?
 		return "no dictionary defined"
